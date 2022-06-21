@@ -1,2 +1,7 @@
 # Azure-SIEM-
-This is contains the log file that i captured during the process of the attack 
+
+```
+This contains the log file's that was captured during the process of the attack 
+also the ip addresses along with latitude, longitude, state/province, and country
+
+```
